@@ -1,33 +1,30 @@
 public class TiposVariaveis {
     public static void main(String[] args) throws Exception {
-        
+
         int numero = 1;
 
         int numeroDois = 3;
 
-       int soma = numero + numeroDois * 5;
-        
+        int soma = numero + numeroDois * 5;
+
         System.out.println(soma);
 
-       String concatenacao = "1" +(1+1+1+1);
+        String concatenacao = "1" + (1 + 1 + 1 + 1);
 
-     System.out.println(concatenacao);
+        System.out.println(concatenacao);
 
-     int numeroNegativo = -1;
-     numeroNegativo = numeroNegativo * -1;
-     System.out.println(numeroNegativo);
+        int numeroNegativo = -1;
+        numeroNegativo = numeroNegativo * -1;
+        System.out.println(numeroNegativo);
 
-     int a, b;
+        int a, b;
 
-     a =5 ;
-     b =8;
+        a = 5;
+        b = 8;
 
-     String resultado = a==b ? "Verdadeiro" : "Falso";
+        String resultado = a == b ? "Verdadeiro" : "Falso";
 
-     System.out.println(resultado);
-
-
-
+        System.out.println(resultado);
 
     }
 }
