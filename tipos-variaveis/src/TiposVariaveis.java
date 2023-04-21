@@ -1,5 +1,16 @@
 public class TiposVariaveis {
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
+        
+        int numero = 1;
+
+        int numeroDois = 3;
+
+       int soma = numero + numeroDois * 5;
+        
+        System.out.println(soma);
+
+       String concatenacao = "1" +(1+1+1+1);
+
+     System.out.println(concatenacao);
     }
 }
