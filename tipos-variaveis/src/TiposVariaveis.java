@@ -17,6 +17,17 @@ public class TiposVariaveis {
      numeroNegativo = numeroNegativo * -1;
      System.out.println(numeroNegativo);
 
+     int a, b;
+
+     a =5 ;
+     b =8;
+
+     String resultado = a==b ? "Verdadeiro" : "Falso";
+
+     System.out.println(resultado);
+
+
+
 
     }
 }
