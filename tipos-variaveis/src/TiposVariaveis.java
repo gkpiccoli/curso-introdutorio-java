@@ -12,5 +12,11 @@ public class TiposVariaveis {
        String concatenacao = "1" +(1+1+1+1);
 
      System.out.println(concatenacao);
+
+     int numeroNegativo = -1;
+     numeroNegativo = numeroNegativo * -1;
+     System.out.println(numeroNegativo);
+
+
     }
 }
