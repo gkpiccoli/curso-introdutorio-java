@@ -5,3 +5,4 @@ Repositório do curso de introdução ao Java - Bootcamp TQI - DIO
  - Anatomia das Classes
  - Java Beans
  - Tipos de variáveis
+ - Métodos
